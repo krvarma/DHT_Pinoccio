@@ -1,0 +1,37 @@
+html {
+  font-size: 8px;
+  font-family: "Helvetica Neue", "Helvetica", "Arial";
+  font-weight: 80;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+p {
+  font-size: 10rem;
+}
+.units {
+  font-size: 3rem;
+  vertical-align: middle;
+  letter-spacing: .35rem;
+}
+
+.value {
+  font-size: 6rem;
+  vertical-align: middle;
+  letter-spacing: .35rem;
+}
+
+.caption {
+  font-size: 2rem;
+  vertical-align: middle;
+  letter-spacing: .35rem;
+}
